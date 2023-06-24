@@ -1,0 +1,2 @@
+{:desc "Вы попадаете в белую плохую комнату."
+ :exits {:north :dbathroom :west :gcabinet}}

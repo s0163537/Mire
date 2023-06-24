@@ -1,0 +1,3 @@
+{:desc "Вы попадаете в подвал."
+ :exits {:north :pdressingroom :east :ubasement}
+ :items #{:keys}}

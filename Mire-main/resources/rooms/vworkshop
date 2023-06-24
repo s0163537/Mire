@@ -1,0 +1,2 @@
+{:desc "Вы попадаете в мастерскую."
+ :exits {:north :rgarage}}

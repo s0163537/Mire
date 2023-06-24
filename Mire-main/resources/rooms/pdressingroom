@@ -1,0 +1,2 @@
+{:desc "Вы попадаете в раздевалку."
+ :exits {:north :khallway :south :tcellar :west :ogym}}

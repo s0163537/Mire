@@ -1,0 +1,2 @@
+{:desc "Вы находитесь в тесном чулане."
+ :exits {:south :fsittingroom}}

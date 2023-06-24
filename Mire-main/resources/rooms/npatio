@@ -1,0 +1,2 @@
+{:desc "Вы попадаете во внутренний дворик."
+ :exits {:north :idiningroom :south :sbooth}}
